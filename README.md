@@ -1,5 +1,5 @@
 # Platzi Mongo
-Todo el código que escribirás para el proyecto platzi-mongo
+TEl código para el proyecto platzi-mongo
 estará en el archivo db.py
 
 # Postman
