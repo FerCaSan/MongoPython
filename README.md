@@ -1,5 +1,5 @@
-# Platzi Mongo
-TEl código para el proyecto platzi-mongo
+# Mongo
+TEl código para el proyecto mongo
 estará en el archivo db.py
 
 # Postman
